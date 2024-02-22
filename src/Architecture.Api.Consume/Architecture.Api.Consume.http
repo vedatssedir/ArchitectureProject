@@ -1,0 +1,6 @@
+@Architecture.Api.Consume_HostAddress = http://localhost:5278
+
+GET {{Architecture.Api.Consume_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
